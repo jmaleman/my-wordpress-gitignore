@@ -8,3 +8,6 @@ I always feel the need to update the .gitignore file, and honestly, it's kind of
 
 ### WSL
 I usually use WSL (Windows Subsystem Linux) for development, and "Zone.Identifier" files are generated automatically when files are copied from Windows to Linux. There is a [solution](https://github.com/microsoft/WSL/issues/4609#issuecomment-2751663954) to avoid this, but if you don't want to “touch” anything, using gitignore will help you avoid having hundreds/thousands of unnecessary files in your repository.
+
+### Package managers
+NPM and PNPM
