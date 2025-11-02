@@ -50,3 +50,7 @@ wp-config.php
 
 # WSL files
 Zone.Identifier
+
+# Package managers
+node_modules
+.pnpm-store
